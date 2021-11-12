@@ -6,7 +6,7 @@ Source code accompanying Jung et al. "Model-informed COVID-19 exit strategy with
 [prediction.ipynb](https://github.com/SungmokJung/Prediction_Rt_COIVD19/blob/main/Prediction_Rt_COVID19.ipynb) :Jupyter Notebook to reproduce the analysis in the paper
 
 ## Licence
-[MIT](https://github.com/SungmokJung/Prediction_Rt_COIVD19/blob/main/LICENSE)
+[MIT](https://github.com/SungmokJung/Prediction_COIVD19_Korea/blob/main/LICENSE)
 
 ## Dependencies
 * R ver. 4.0.3
